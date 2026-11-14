@@ -1,0 +1,6 @@
+build/
+managed_components/
+# a WiFi jelszó a menuconfig-on keresztül ide kerül
+sdkconfig
+sdkconfig.old
+.vscode/
